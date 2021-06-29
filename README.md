@@ -1,2 +1,7 @@
 # Flappy-Game
-Flappy Game by use of Python language, Pygame Module is being used.
+For this project, we are going to use the Virtual Studio Code IDE and the pygame module. Pygame is a library that is used in creating games in Python. It has four important things.
+
+Game Loop
+Events
+Sprites
+Sound
